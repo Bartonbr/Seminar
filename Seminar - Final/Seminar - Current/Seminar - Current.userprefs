@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\actuate.cs">
+    <Files>
+      <File FileName="Assets\Resources\Gallium.cs" Line="36" Column="22" />
+      <File FileName="Assets\Resources\Gallium.cs" Line="48" Column="1" />
+      <File FileName="Assets\Resources\Architect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Mechanic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\bluePrint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\actuate.cs" Line="22" Column="19" />
+      <File FileName="Assets\Resources\UnitLibrarian.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\cameraFollowLeader.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
